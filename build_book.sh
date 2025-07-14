@@ -73,8 +73,7 @@ Welcome! This repository contains all materials for the "Product Analytics Maste
 
 The full curriculum is available as a polished, searchable website, built with mdBook.
 
-**➡️ [Access the live curriculum here](https://your-username.github.io/Product-Analytics-Masterclass/)**
-*(You must update this link in GitHub > Settings > Pages after your first deployment.)*
+**➡️ [Access the live curriculum here](https://moshesham.github.io/Analytical-Interview-Prep-Guide/)**
 
 ## Local Development
 
