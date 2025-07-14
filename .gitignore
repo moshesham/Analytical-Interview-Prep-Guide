@@ -1,0 +1,13 @@
+# mdBook build output
+/book-src/book/
+
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# IDE & OS specific
+.idea/
+.vscode/
+.DS_Store

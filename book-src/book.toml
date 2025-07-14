@@ -1,0 +1,8 @@
+[book]
+title = "The Product Analytics Masterclass"
+authors = ["Your Name"]
+src = "src"
+
+[output.html]
+git-repository-url = "https://github.com/your-username/Product-Analytics-Masterclass"
+edit-url-template = "https://github.com/your-username/Product-Analytics-Masterclass/edit/main/{path}"
