@@ -1,8 +1,9 @@
 [book]
-title = "The Product Analytics Masterclass"
-authors = ["Your Name"]
+title = "Analytical Interview Prep Guide"
+authors = ["Moshe Shamouilian"]
 src = "src"
 
+
 [output.html]
-git-repository-url = "https://github.com/your-username/Product-Analytics-Masterclass"
-edit-url-template = "https://github.com/your-username/Product-Analytics-Masterclass/edit/main/{path}"
+git-repository-url = "https://github.com/moshesham/Analytical-Interview-Prep-Guide"
+edit-url-template = "https://github.com/moshesham/Analytical-Interview-Prep-Guide/edit/main/{path}"
