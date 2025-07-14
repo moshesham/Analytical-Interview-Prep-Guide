@@ -6,12 +6,17 @@
 # Week 1: Core Skills
 
 - [Review & Synthesis](./week1_core_skills/review_synthesis.md)
+- [Relational Databases](./week1_core_skills/sql/Relational_Databases.md)
 - [SQL Fundamentals](./week1_core_skills/sql/fundamentals.md)
 - [SQL Intermediate](./week1_core_skills/sql/intermediate.md)
 - [SQL Advanced Window Functions](./week1_core_skills/sql/advanced_window_functions.md)
+- [Python: Data Cleaning Project](./week1_core_skills/python/data_cleaning_project.md)
+- [Python: Time Series](./week1_core_skills/python/time_series_analysis.md)
+- [Python: Data Visualization](./week1_core_skills/python/advanced_visualization.md)
 - [Statistics: Probability & Distributions](./week1_core_skills/statistics/probability_distributions.md)
 - [Statistics: Hypothesis Testing](./week1_core_skills/statistics/hypothesis_testing.md)
-- [Python: Data Cleaning Project](./week1_core_skills/python/data_cleaning_project.md)
+- [Statistics: Theory & Product Analytics in Action](./week1_core_skills/statistics/Theory-Product-Analytics-Action.md)
+- [Statistics: Advanced (Expert & Applied)](./week1_core_skills/statistics/advanced_statistics_expert.md)
 
 # Week 2: Product Thinking & A/B Testing
 
