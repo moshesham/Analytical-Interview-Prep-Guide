@@ -38,19 +38,17 @@ else
 fi
 
 # --- Week 1 ---
+
 echo "---" >> "${SUMMARY_FILE}"
 echo "# Week 1: Core Skills" >> "${SUMMARY_FILE}"
 echo "" >> "${SUMMARY_FILE}"
 echo "- [Review & Synthesis](./week1_core_skills/review_synthesis.md)" >> "${SUMMARY_FILE}"
-echo "- **SQL**" >> "${SUMMARY_FILE}"
-echo "  - [Fundamentals](./week1_core_skills/sql/fundamentals.md)" >> "${SUMMARY_FILE}"
-echo "  - [Intermediate](./week1_core_skills/sql/intermediate.md)" >> "${SUMMARY_FILE}"
-echo "  - [Advanced Window Functions](./week1_core_skills/sql/advanced_window_functions.md)" >> "${SUMMARY_FILE}"
-echo "- **Statistics**" >> "${SUMMARY_FILE}"
-echo "  - [Probability & Distributions](./week1_core_skills/statistics/probability_distributions.md)" >> "${SUMMARY_FILE}"
-echo "  - [Hypothesis Testing](./week1_core_skills/statistics/hypothesis_testing.md)" >> "${SUMMARY_FILE}"
-echo "- **Python**" >> "${SUMMARY_FILE}"
-echo "  - [Data Cleaning Project](./week1_core_skills/python/data_cleaning_project.md)" >> "${SUMMARY_FILE}"
+echo "- [SQL Fundamentals](./week1_core_skills/sql/fundamentals.md)" >> "${SUMMARY_FILE}"
+echo "- [SQL Intermediate](./week1_core_skills/sql/intermediate.md)" >> "${SUMMARY_FILE}"
+echo "- [SQL Advanced Window Functions](./week1_core_skills/sql/advanced_window_functions.md)" >> "${SUMMARY_FILE}"
+echo "- [Statistics: Probability & Distributions](./week1_core_skills/statistics/probability_distributions.md)" >> "${SUMMARY_FILE}"
+echo "- [Statistics: Hypothesis Testing](./week1_core_skills/statistics/hypothesis_testing.md)" >> "${SUMMARY_FILE}"
+echo "- [Python: Data Cleaning Project](./week1_core_skills/python/data_cleaning_project.md)" >> "${SUMMARY_FILE}"
 
 # --- Week 2 ---
 echo "" >> "${SUMMARY_FILE}"
