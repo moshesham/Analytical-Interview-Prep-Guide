@@ -54,7 +54,6 @@ echo "- [Python: Data Visualization](./week1_core_skills/python/advanced_visuali
 echo "- [Statistics: Probability & Distributions](./week1_core_skills/statistics/probability_distributions.md)" >> "${SUMMARY_FILE}"
 echo "- [Statistics: Hypothesis Testing](./week1_core_skills/statistics/hypothesis_testing.md)" >> "${SUMMARY_FILE}"
 echo "- [Statistics: Theory & Product Analytics in Action](./week1_core_skills/statistics/Theory-Product-Analytics-Action.md)" >> "${SUMMARY_FILE}"
-echo "- [Statistics: Advanced (Expert & Applied)](./week1_core_skills/statistics/advanced_statistics_expert.md)" >> "${SUMMARY_FILE}"
 
 # --- Week 2 ---
 echo "" >> "${SUMMARY_FILE}"
