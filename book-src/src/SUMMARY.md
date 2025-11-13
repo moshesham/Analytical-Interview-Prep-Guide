@@ -18,7 +18,6 @@
 - [Statistics: Probability & Distributions](./week1_core_skills/statistics/probability_distributions.md)
 - [Statistics: Hypothesis Testing](./week1_core_skills/statistics/hypothesis_testing.md)
 - [Statistics: Theory & Product Analytics in Action](./week1_core_skills/statistics/Theory-Product-Analytics-Action.md)
-- [Statistics: Advanced (Expert & Applied)](./week1_core_skills/statistics/advanced_statistics_expert.md)
 
 # Week 2: Product Thinking & A/B Testing
 
