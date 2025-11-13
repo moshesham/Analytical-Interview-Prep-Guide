@@ -8,6 +8,9 @@ The full curriculum is available as a polished, searchable website, built with m
 **➡️ [Access the live curriculum here](https://your-username.github.io/Product-Analytics-Masterclass/)**
 *(Update this link in GitHub > Settings > Pages after your first deployment.)*
 
+**📊 [Try the Interactive Streamlit App](https://moshesham-data-science-analytical-handbook.streamlit.app/)**
+*Explore interactive visualizations and hands-on exercises for data science interview preparation!*
+
 ## What's Inside?
 - **SQL (Fundamentals to Advanced):** Real-world queries, window functions, and analytics use cases.
 - **Applied Statistics:** Interview-ready theory, product analytics scenarios, and expert-level deep dives.
