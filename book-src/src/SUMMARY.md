@@ -10,6 +10,7 @@
 - [SQL Fundamentals](./week1_core_skills/sql/fundamentals.md)
 - [SQL Intermediate](./week1_core_skills/sql/intermediate.md)
 - [SQL Advanced Window Functions](./week1_core_skills/sql/advanced_window_functions.md)
+- [SQL Query Optimization](./week1_core_skills/sql/query_optimization.md)
 - [Python: Data Cleaning Project](./week1_core_skills/python/data_cleaning_project.md)
 - [Python: Time Series](./week1_core_skills/python/time_series_analysis.md)
 - [Python: Data Visualization](./week1_core_skills/python/advanced_visualization.md)
@@ -33,6 +34,7 @@
 
 - [Review, Refine & Rest](./week3_execution/review_refine_rest.md)
 - [Data Storytelling](./week3_execution/data_storytelling.md)
+- [Data Ethics & Bias Detection](./week3_execution/data_ethics_bias.md)
 - [Behavioral Interview](./week3_execution/behavioral_interview.md)
 - [Timed Technical Challenge](./week3_execution/timed_sql_python_challenge.md)
 - [Technical Mock Interview](./week3_execution/mock_interview_technical.md)
