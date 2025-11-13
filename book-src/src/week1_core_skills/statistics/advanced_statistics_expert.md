@@ -170,6 +170,7 @@ When randomization isn't possible:
 
 ### Sample Size Formula (Two-Sample t-test)
 n ≈ 2 * (z_(1-α/2) + z_(1-β))² * σ² / δ²
+*This formula gives the required sample size per group, assuming equal allocation to both groups.*
 
 Where:
 - δ = effect size (difference in means)
